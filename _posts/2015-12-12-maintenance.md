@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "maintenance"
+categories: home
+---
+
+
+#Housekeeping
+
+Many East Winders choose to devote some of their time to keeping our communal spaces clean, organized, and in good repair. There are many different ways to help out with upkeep around the community; ranging from basic cleaning, dish washing, and laundry to repairs on our buildings, machinery, and cars to mowing our lawns and taking out the trash.
+
+Our current shower and laundry facilities aren't what they used to be, after a December 2011 fire that destroyed our communal showerhouse. Our Showerhouse included ten showers and one bath, laundry facilities, a sewing room, a massage room, and an extensive communal wardrobe referred to as Commie Clothes. Despite all of the chaos, East Winders have pulled together to assure that all of our members are well taken care of. Many East Winders are contributing their help to providing temporary and permanant shower, laundry, and clothing solutions. We have already received many generous donations for which we are all very thankful. Commie Clothes is designed to provide members with all of their clothing needs and supplies an ample selection of shoes, coats, socks, shirts, pants, dresses, and skirts, among other clothes for all seasons, sizes, and styles.
+
+The counters and floors are cleaned and the pots and dishes are washed three times daily in our main communal kitchen, Rock Bottom (RB). All East Winders must contribute two hours per week to doing dishes or cleaning the kitchen (this is the only assigned labor at East Wind, aside from work in our businesses). Our other communal kitchens, in addition to our other living and work spaces, are cleaned and organized on an as needed basis. Sharing living and working space with sixty other people can sometimes cause frustration, so all East Winders are strongly encouraged to do their fair share, put things back where they belong, and clean up after themselves. Thanks to the hard work and consideration of many East Winders, most of us find our communal spaces comfortable, tidy, sanitary, and homey.
+
+#Grounds & Maintenance
+
+We have over one thousand acres, more than two dozen buildings, about sixty people, and almost forty years of history. East Wind’s potential construction, repair, and maintenance projects are virtually endless. By utilizing our extensive resources, we are able to complete the large majority of repairs and projects ourselves without outside assistance or costs. Our wood shop possesses a table saw, drill press, belt sander, planer, jointer, grinding wheel, and miter saw, among a wide variety of other tools.
+
+We share a fleet of community vehicles, which members are able to sign out for personal, group, and community-related trips. We are able work on community vehicles in our autoshop, which possesses a hydraulic lift, oxy-acetylene torch, grinding wheels, wire wheels, welding equipment, pneumatic tools, parts washer, and various other tools and equipment. There is always work to be done in our autoshop for individuals with mechanical skills. A few of us are highly skilled builders, carpenters, machinists, and mechanics, and a good number of us have skills or ambitions in these areas. However, with the great number of projects going on at any given time, handymen and women are sometimes in short supply. Newcomers with these types of skills are welcomed and encouraged to help out if interested.
+
+Our grounds are regularly maintained by East Winders who volunteer to keep the lawns mowed during the warmer months, keep our paths and lawns unobstructed, maintain landscaping, and take out the trash. East Wind recycles metal, tin, aluminum, glass, plastic, and cardboard; and burns trash made of paper or wood. The rest of our trash is put into a dumpster, and eventually makes its way to a local landfill once per week. Though many of us strongly desire to reduce our waste and our ecological footprint, this intention proves more difficult in practice than in theory. We are looking to consume less and create less waste, but we admittedly still have a long way to go.
+
+At East Wind, we try to use our resources wisely by taking advantage of what is available to us naturally or what we can reuse. We maintain an extensive resource yard where we store scrap metal and other various building supplies and resources that don’t currently have a use, but may come in handy on later projects. We reuse glass and plastic containers in our kitchen as much as possible. The peanuts for our factory are shipped by the ton in giant heavy-duty plastic bags called superbags. We are able to make use of these by donating them to Habitat for Humanity, and they are used to make earthbag homes. Though only some of our existing infrastructure utilizes natural materials, a few of us have strong interests in natural building and hope to begin some projects in the near future.
