@@ -161,3 +161,105 @@ a:visited { color: #a0a; }
 .post pre.terminal code {
   background-color: #333;
 }
+
+
+/* sidebar */
+#sidebar {
+	float: left;
+	margin: 0;	padding: 0; 
+	display: inline;		
+}
+
+#sidebar h4{
+	font: bold 1em/1em "Trebuchet MS", Tahoma, Arial, Sans-serif;
+	color: #111;
+	padding: 10px 0px 0px 15px;
+	margin: 0;
+	font-size: 170%;
+	
+}
+
+#sidebar h3{
+	font: bold 1em/1em "Trebuchet MS", Tahoma, Arial, Sans-serif;
+	color: #333;
+	padding: 5px 0px 5px 5px;
+	margin: 0;
+	font-size: 130%;
+	font-weight: bold;
+}
+
+#sidebar ul.sidemenu {
+	list-style:none;
+	margin:10px 0 10px 15px;
+	padding:0;
+	width: 165px;		
+}
+
+#sidebar ul.sidemenu li {
+	margin-bottom:1px;
+	border: 1px solid #f2f2f2;
+}
+
+#sidebar ul.sidemenu a {
+	display:block;
+	font-weight:bold;
+	color: #333;	
+	text-decoration:none;	
+	padding:3px 5px 3px 10px;
+	background: #ddd; /*#f2f2f2;*/
+	/*background: url(/web/20150906044429/http://www.eastwind.org/images/trans2.gif) ;*/ 
+	opacity:0.8;
+	filter: alpha(opacity=80); 
+	border-left:4px solid #bbb;	
+	min-height:18px;
+}
+
+#sidebar ul.sidemenu2 {
+	list-style:none;
+	margin:0px 0 0px 25px;
+	padding:0;		
+}
+
+#sidebar ul.sidemenu2 li {
+	margin-bottom:1px;
+	border: 1px solid #f2f2f2;
+}
+
+#sidebar ul.sidemenu2 a {
+	display:block;
+	font-weight:bold;
+	color: #333;	
+	text-decoration:none;	
+	padding:3px 5px 3px 10px;
+	background: #ddd; /*#f2f2f2; #b4c3b8*/
+	/*background: url(/web/20150906044429/http://www.eastwind.org/images/trans2.gif) ;*/ 
+	opacity:0.8;
+	filter: alpha(opacity=80); 
+	border-left:4px solid #aaa;	
+	min-height:18px;
+}
+
+* html body #sidebar ul.sidemenu a { height: 15px; }
+
+#sidebar ul.sidemenu a:hover,
+body#index ul.sidemenu li a.index,
+body#govt ul.sidemenu li a.govt,
+body#culture ul.sidemenu li a.culture,
+body#history ul.sidemenu li a.history,
+body#common ul.sidemenu li a.common,
+body#civic ul.sidemenu li a.civic,
+body#ozarks ul.sidemenu li a.ozarks,
+body#nutbutter ul.sidemenu li a.nutbutter,
+body#garden ul.sidemenu li a.garden,
+body#ranch ul.sidemenu li a.ranch,
+body#forestry ul.sidemenu li a.forestry,
+body#house ul.sidemenu li a.house,
+body#comptoil ul.sidemenu li a.comptoil,
+body#rec ul.sidemenu li a.rec,
+body#visit ul.sidemenu li a.visit,
+body#labor ul.sidemenu li a.labor,
+body#herbs ul.sidemenu li a.herbs,
+body#kitchen ul.sidemenu li a.kitchen,
+body#maintenance ul.sidemenu li a.maintenance,
+body#links ul.sidemenu li a.links,
+body#contact ul.sidemenu li a.contact
