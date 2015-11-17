@@ -1,9 +1,12 @@
 {% include head.html %}
 
-{% include sidebar.html %}
+
 
 <div id="main_content_wrap" class="outer">
   <div id="main_content" class="inner">
+    <div id="sidebar">
+    {% include sidebar.html %}
+    </div>
     <div class="content">
       {{ content }}
     </div>
