@@ -4,14 +4,15 @@
 
 <div id="main_content_wrap" class="outer">
   <div id="main_content" class="inner">
-    <div id="sidebar">
+    
+  <div class="col-one">
+  
     {% include sidebar.html %}
-    </div>
-    <div class="content">
+</div>
+    <div class="col-two">
       {{ content }}
     </div>
   </div>
 </div>
-
 
 {% include foot.html %}
