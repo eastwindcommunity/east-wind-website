@@ -20,28 +20,28 @@ body {
 }
 
 #leaves {
-	background: #d4dfce url({{ site.url }}/assets/wrap-bg.jpg) center top repeat-x; /*top image*/	
+	background: #d4dfce url({{ site.baseurl }}/assets/wrap-bg.jpg) center top repeat-x; /*top image*/	
 	margin-top: 5px;
 	margin: 0 auto;
 	/*background: #070707;  c1bcb1  afbe9f cdd3c5   d3e3f1*/
 }
 
 #leaves2 {
-	background:  url({{ site.url }}/assets/leaf2.jpg) no-repeat bottom; /*shows outside leaves*/	
+	background:  url({{ site.baseurl }}/assets/leaf2.jpg) no-repeat bottom; /*shows outside leaves*/	
 	margin: 0 auto;
 	margin-top: 5px;
 	/*background: #070707;  c1bcb1  afbe9f cdd3c5*/	
 }
 
 #leaf {
-	background:  url({{ site.url }}/assets/leaf3.png) no-repeat bottom; /*shows inside leaves*/	
+	background:  url({{ site.baseurl }}/assets/leaf3.png) no-repeat bottom; /*shows inside leaves*/	
 	margin: 0 auto;
 	margin-top: 0px;
 	/*background: #070707;  c1bcb1  afbe9f cdd3c5*/	
 }
 
 #decbar {
-	background: url("{{ site.url }}/assets/floral4.png") repeat-x #E6E3D0;
+	background: url("{{ site.baseurl }}/assets/floral4.png") repeat-x #E6E3D0;
 	height:35px;
 	width: 940px;
 	margin: 0 auto;
@@ -75,7 +75,7 @@ h1 {
 h2 {
 	font-size: 200%;
 	color: #663333;	
-	background: url("{{ site.url }}/assets/flora5.png") no-repeat ;
+	background: url("{{ site.baseurl }}/assets/flora5.png") no-repeat ;
 	padding-left:36px;
 	margin-top:15px;
 	margin-left:10px;
@@ -334,7 +334,7 @@ input.button {
 #content {
 	float: left;
 	width: 980px;
-	background: url({{ site.url }}/assets/shadow.png) repeat-y; 
+	background: url({{ site.baseurl }}/assets/shadow.png) repeat-y; 
 }
 
 /*#content-shadow {
