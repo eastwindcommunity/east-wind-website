@@ -14,16 +14,16 @@ body {
 	font: 11px/165% "Lucida Grande", Geneva, Verdana, Arial, Helvetica, sans-serif;
 	color: #444; 	
 	margin: 0; padding: 0 0 50px 0;
-	background: #000; 
+	background: #777707; 
 	/*background: #070707;*/
 	text-align: center;
 }
 
 #leaves {
-	background: #d4dfce url({{ site.baseurl }}/assets/wrap-bg.jpg) center top repeat-x; /*top image*/	
+	/*background: #d4dfce url({{ site.baseurl }}/assets/wrap-bg.jpg) center top repeat-x; */
 	margin-top: 5px;
 	margin: 0 auto;
-	/*background: #070707;  c1bcb1  afbe9f cdd3c5   d3e3f1*/
+	background: #070707; 
 }
 
 #leaves2 {
@@ -283,7 +283,6 @@ input.button {
 /* content LAYOUT */ 
 
 #wrap {
-	padding-top:20px;
 	/*background:   url(/web/20150413191239/http://eastwind.org/images/bg.png) repeat-x; */
 }
 
